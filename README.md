@@ -1,2 +1,3 @@
 # mldeploy
-A sample app with an ml model
+
+Demonstrating deployment of a machine learning model using Flask on Heroku.
