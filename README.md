@@ -10,7 +10,7 @@ Let's see how to create and deploy a linear regression model in python with the 
 - [heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
 - [jupter](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)        #*optional*
 
-## Python packages
+## Required python packages
 - flask
 - gunicorn
 - pandas
