@@ -33,6 +33,8 @@ Let's see how to create and deploy a linear regression model in python with the 
 
 Voila!. You've just deployed a flask app onto the web.
 
+[DEMO](https://zoomloom.herokuapp.com/)
+
 ## __Author__
 
  **Gautham Prakash**
