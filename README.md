@@ -8,7 +8,7 @@ Let's see how to create and deploy a linear regression model in python with the 
 - [git](https://git-scm.com/downloads)
 - [heroku account](https://signup.heroku.com/)
 - [heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
-- [jupter](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)  #*optional*
+- [jupter](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)        #*optional*
 
 ## Python packages
 - flask
@@ -27,7 +27,9 @@ Let's see how to create and deploy a linear regression model in python with the 
 - Activate it
 - Install necessary [packages](https://github.com/gauthamp10/mldeploy/blob/master/src/requirements.txt) 
 - Login to your heroku account and authenticate with heroku cli
-- Add the files, commit and push to cloud.
+- Create an app
+- Connect the heroku git with local git
+- Add the files, commit and push onto heroku.
 
 Voila!. You've just deployed a flask app onto the web.
 
