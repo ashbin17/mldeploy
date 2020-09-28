@@ -1,4 +1,4 @@
-# Linear Regression model creation and deployment
+# Linear regression model creation and deployment
 
 Let's see how to create and deploy a linear regression model in python with the help of flask onto Heroku. For the sake of simplicity, we are going to use the heroku git method rather than creating a pipline to github or github actions.
 
